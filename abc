@@ -1,4 +1,2 @@
 printf("a");
 printf("a");
-
-puts("puts")
