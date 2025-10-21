@@ -1,2 +1,4 @@
 printf("a");
 printf("a");
+int i,n;
+for(i = 1; i<=2; i++);
